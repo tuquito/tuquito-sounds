@@ -1,0 +1,12 @@
+Source: tuquito-sounds
+Section: gnome
+Priority: optional
+Maintainer: Mario Colque <mario@tuquito.org.ar>
+Build-Depends: debhelper (>= 5), vorbis-tools
+Standards-Version: 3.7.2
+
+Package: tuquito-sounds
+Architecture: all
+Depends: ${misc:Depends}
+Description: Tema de audio de GNOME para Tuquito
+ Sounds to spruce up the GNOME desktop environment.
