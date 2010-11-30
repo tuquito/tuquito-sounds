@@ -7,6 +7,5 @@ Standards-Version: 3.7.2
 
 Package: tuquito-sounds
 Architecture: all
-Depends: ${misc:Depends}
 Description: Tema de audio de GNOME para Tuquito
  Sounds to spruce up the GNOME desktop environment.
